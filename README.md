@@ -50,9 +50,10 @@ flowchart TD
 
 ---
 
-## 🔗 Link para o Projeto no Wokwi
+## 🔗 Link para o Projeto no Wokwi e ThingSpeak
 
 - [Projeto no Wokwi](https://wokwi.com/projects/446809202770752513)
+- [ThingSpeak](https://thingspeak.mathworks.com/channels/3071761)
 
 ## 📷 Evidências
 
