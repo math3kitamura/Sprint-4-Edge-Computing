@@ -55,3 +55,15 @@ flowchart TD
 - [Projeto no Wokwi](https://wokwi.com/projects/446809202770752513)
 
 ## 📷 Evidências
+
+<img width="927" height="817" alt="Image" src="https://github.com/user-attachments/assets/c025327e-77ac-470e-becc-92eb825a9931" />
+
+- Conexão com o servidor HTTP
+
+<img width="242" height="245" alt="Image" src="https://github.com/user-attachments/assets/f12837cb-2f8e-4ccf-bdaa-b3b5d97cd6cb" />
+
+- Imagem do OLED
+
+<img width="1029" height="692" alt="Image" src="https://github.com/user-attachments/assets/e80c8bf5-5083-4b41-a695-1103288d7a6f" />
+
+- Imagem do ThingSpeak
